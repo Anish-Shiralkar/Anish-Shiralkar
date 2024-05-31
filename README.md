@@ -5,7 +5,9 @@ My interests include data analysis and visualization, as well as low-code develo
 
 ## Skills:
 🐬**MySQL**
+
 🧮 **Tableau, Power BI**
+
 📱**MS Power Platform**
 
 
