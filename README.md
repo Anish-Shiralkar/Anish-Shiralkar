@@ -1,4 +1,4 @@
-![DateEverywhereDataGIF](https://github.com/Anish-Shiralkar/Anish-Shiralkar/assets/171355185/a43a3883-31e7-427a-9fc8-84177e011166)# Hi there 👋 I'm Anish
+# Hi there 👋 I'm Anish
 I'm Anish, holding a Master's in Supply Chain Management from SRH Berlin University of Applied Sciences. 
 With 3 years of experience in project management and business process digitalization, I'm currently transitioning my career to data science through a 4-month intensive bootcamp at WBS Coding School, Berlin.
 My interests include data analysis and visualization, as well as low-code development.
