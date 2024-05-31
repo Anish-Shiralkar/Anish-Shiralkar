@@ -5,6 +5,9 @@ My interests include data analysis and visualization, as well as low-code develo
 
 🔭 I’m currently working on data cleaning and transformation using Python's Pandas and story-telling with Matplotlib and Seaborn
 
+![Uploading PythonPoweredGIF.gif…]()
+
+
 
 ## Skills:
 🐬**MySQL**
