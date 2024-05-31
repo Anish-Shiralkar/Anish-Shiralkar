@@ -6,7 +6,6 @@ My interests include data analysis and visualization, as well as low-code develo
 🔭 I’m currently working on data cleaning and transformation using Python's Pandas and story-telling with Matplotlib and Seaborn
 
 ![SimpsonsTvGIF (2)](https://github.com/Anish-Shiralkar/Anish-Shiralkar/assets/171355185/dfab1746-5f2e-488b-90ce-9f5c5237687a)
-![SimpsonsTvGIF](https://github.com/Anish-Shiralkar/Anish-Shiralkar/assets/171355185/ead70218-9a17-4bf5-8138-07ed9385498b)
 
 
 
