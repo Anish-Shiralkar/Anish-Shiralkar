@@ -3,7 +3,7 @@ I'm Anish, holding a Master's in Supply Chain Management from SRH Berlin Univers
 With 3 years of experience in project management and business process digitalization, I'm currently transitioning my career to data science through a 4-month intensive bootcamp at WBS Coding School, Berlin.
 My interests include data analysis and visualization, as well as low-code development.
 
-🔭 I’m currently working on data cleaning and transformation using Python's Pandas and story-telling with Matplotlib and Seaborn
+🔭 I’m currently working on data cleaning and transformation using Python's Pandas and story-telling with Matplotlib and Seaborn.
 
 ![SimpsonsTvGIF (2)](https://github.com/Anish-Shiralkar/Anish-Shiralkar/assets/171355185/dfab1746-5f2e-488b-90ce-9f5c5237687a)
 
