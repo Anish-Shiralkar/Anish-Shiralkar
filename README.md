@@ -5,12 +5,6 @@ My interests include data analysis and visualization, as well as low-code develo
 
 🔭 I’m currently working on data cleaning and transformation using Python's Pandas and story-telling with Matplotlib and Seaborn.
 
-![DateEverywhereDataGIF (2)](https://github.com/Anish-Shiralkar/Anish-Shiralkar/assets/171355185/39febb87-33fa-44bd-b93f-303db90169bf)
-
-
-
-
-
 ## Skills:
 🐬**MySQL**
 
@@ -18,6 +12,8 @@ My interests include data analysis and visualization, as well as low-code develo
 
 📱**MS Power Platform**
 
+
+![DateEverywhereDataGIF (2)](https://github.com/Anish-Shiralkar/Anish-Shiralkar/assets/171355185/39febb87-33fa-44bd-b93f-303db90169bf)
 
 
   
