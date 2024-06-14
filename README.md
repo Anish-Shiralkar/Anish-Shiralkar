@@ -17,9 +17,6 @@ My interests include data analysis and visualization, as well as low-code develo
 📱**MS Power Platform**
 
 
-![DateEverywhereDataGIF (2)](https://github.com/Anish-Shiralkar/Anish-Shiralkar/assets/171355185/39febb87-33fa-44bd-b93f-303db90169bf)
-
-
   
 
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anish-Shiralkar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anish-shiralkar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://anishshiralkar2796.wixsite.com/my-site-2) 
