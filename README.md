@@ -3,7 +3,7 @@ Hi, I'm Anish, holding a Master's degree in Supply Chain Management from SRH Ber
 
 My passion lies in data analysis and visualization, and I have a strong interest in leveraging low-code development to solve complex problems. I have hands-on experience working on projects using pandas for data manipulation, MySQL for relational database management, and Tableau for data visualization. I am eager to apply my skills in real-world data science projects and contribute to innovative solutions.
 
-👩‍💻 I'm currently working on: A/B Testing, Supervised/ unsupervised machine learning, Data-Engineering & Web-scrapping, Generative AI
+**👩‍💻 I'm currently working on: A/B Testing, Supervised/ unsupervised machine learning, Data-Engineering & Web-scrapping, Generative AI**
 
 
 
