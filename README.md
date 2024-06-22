@@ -11,10 +11,15 @@ My interests include data analysis and visualization, as well as low-code develo
 
 ## Technical skills:
 Programming Languages: **MySQL, Python**
+
 Data Analysis & Manipulation: **Pandas**
+
 Data Visualization: **Matplotlib, Power BI, Tableau**
+
 Advanced Visualization: **Seaborn**
+
 Microsoft Power Platform: **Canvas Apps, Model-Driven Apps, Power Pages**
+
 Workflow Automation: **Power Automate**
 
 
