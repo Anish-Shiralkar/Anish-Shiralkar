@@ -10,12 +10,12 @@ My interests include data analysis and visualization, as well as low-code develo
 ⚡️ Fun fact: The term "data wrangling," which refers to the process of cleaning and organizing raw data, originated from the cowboy slang "wrangling," which means to manage and round up livestock.
 
 ## Technical skills:
-## Programming Languages: ** MySQL, Python **
-## Data Analysis & Manipulation: ** Pandas **
-## Data Visualization: ** Matplotlib, Power BI, Tableau **
-## Advanced Visualization: ** Seaborn **
-## Microsoft Power Platform: **Canvas Apps, Model-Driven Apps, Power Pages**
-## Workflow Automation: **Power Automate **
+Programming Languages: ** MySQL, Python **
+Data Analysis & Manipulation: ** Pandas **
+Data Visualization: ** Matplotlib, Power BI, Tableau **
+Advanced Visualization: ** Seaborn **
+Microsoft Power Platform: **Canvas Apps, Model-Driven Apps, Power Pages**
+Workflow Automation: **Power Automate **
 
 
 
