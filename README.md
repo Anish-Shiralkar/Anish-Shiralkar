@@ -10,7 +10,7 @@ My passion lies in data analysis and visualization, and I have a strong interest
 ## Technical skills:
 **Programming Languages**: MySQL, Python
 
-**Libraries & Tools**: Pandas, Beautifulsoup, Matplotlib, Seaborn, Scipy, Numpy
+**Libraries & Tools**: Pandas, Beautifulsoup, Matplotlib, Seaborn, Scipy, Numpy, Google Colab, Jupyter Notebook, Visual Studio Code, Google Cloud Platform
 
 **Data Visualization Tools**: Power BI, Tableau
 
