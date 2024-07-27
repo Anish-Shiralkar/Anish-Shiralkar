@@ -14,6 +14,8 @@ My passion lies in data analysis and visualization, and I have a strong interest
 
 **Data Visualization Tools**: Power BI, Tableau
 
+**Machine Learning & AI**: Unsupervised/ Supervised ML, Generative AI
+
 **Statistical testing**: A/B Testing, Experiment Design
 
 **Microsoft Power Platform**: Canvas Apps, Model-Driven Apps, Power Pages
