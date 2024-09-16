@@ -1,7 +1,7 @@
 # Hi there 👋
-I'm Anish, holding a Master's degree in Supply Chain Management from SRH Berlin University of Applied Sciences. With a combined 3 years of experience in project management & business process digitalization, I am now transitioning to a career in data science. Currently, I am enrolled in a 4-month intensive data science bootcamp at WBS Coding School in Berlin.
+I'm Anish, holding a Master's degree in Supply Chain Management. I recently completed a 4-months of full-time data science bootcamp which has equipped with the skill-set to explore the opportunities across business and data analytics. Additionally, I hold a combined 3 years of work experience in supply chain and project management.
 
-My passion lies in data analysis and visualization, and I have a strong interest in leveraging low-code development to solve complex problems. I have hands-on experience working on projects using pandas for data manipulation, MySQL for relational database management, and Power BI for data visualization. I am eager to apply my skills in real-world data science projects and contribute to innovative solutions.
+My passion lies in data analysis and visualization, and I have a strong interest in leveraging low-code development to solve complex problems. I have hands-on experience working on projects using python for data manipulation, MySQL for relational database management, and Power BI for data visualization. I am eager to apply my skills in real-world data science projects and contribute to innovative solutions.
 
 
 
